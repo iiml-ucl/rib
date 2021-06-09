@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e0b2e85-255e-4810-8023-9a680b365d50" name="cork (project level)" url="http:///">
+        <fileTransfer accessType="SFTP" host="cork.ee.ucl.ac.uk" port="22" sshConfigId="c49d9218-5e64-4ff0-8765-4aaf8a86ee05" sshConfig="uceelyu@cork.ee.ucl.ac.uk:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

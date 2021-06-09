@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="figo.ee.ucl.ac.uk" id="1e772561-3ead-4aac-9502-029ec7daad0e" port="22" nameFormat="DESCRIPTIVE" username="uceelyu" />
+      <sshConfig authType="PASSWORD" host="cork.ee.ucl.ac.uk" id="c49d9218-5e64-4ff0-8765-4aaf8a86ee05" port="22" nameFormat="DESCRIPTIVE" username="uceelyu" />
+    </configs>
+  </component>
+</project>
